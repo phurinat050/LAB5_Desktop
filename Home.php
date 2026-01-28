@@ -11,20 +11,20 @@
 		<tr>
 			<td width="1007" bgcolor="#FFFFFF">
 				<p>
-					อพาร์ทเมนต์ หรู สภาพแวดล้อมดี ปลอดภัย บริการทั้งห้องพัก รายวัน รายเดือน ;hk;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-					เหมาะสำหรับ <br> นักศึกษา ใกล้แหล่งชุมชน และ ห้างสรรพสินค้า BigC , Lotus
+					อพาร์ทเมนต์ หรู สภาพแวดล้อมดี ปลอดภัย บริการทั้งห้องพัก รายวัน รายเดือน ;hkwowowowowowowowowowowowow
+					เหมาะสำหรับ <br> นักศึกษา ใกล้แหล่งชุมชน และ ห้างสรรพสินค้า BigC , Lotussadasdasdsadasdasdasdsadasdasd
 				<p>
 					ห้องพักทันสมัย เฟอร์นิเจอร์อย่างดี และสุขภัณฑ์ครบครัน มีสิ่งอำนวยความสะดวกมากมาย
-					อาทิ WIFI อินเทอร์เน็ตความเร็วสูงทุกห้อง มีพัดลม และเครื่องปรับอากาศให้เลือก มีทีวี
+					อาทิ WIFI อินเทอร์เน็ตความเร็วสูงทุกห้อง มีพัดลม และเครื่องปรับอากาศให้เลือก มีทีวีasdasdsdasdasdassdada
 					คอมพิวเตอร์ให้เช่า
 				<p>
 					เชิญชมห้องตัวอย่าง ได้ทุกวัน <a href=amit.php>ติดต่อสอบถาม</a>	
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
-				<li><a href="room.php">ห้องพัก&ราคdasdsaddasdsadsasdasdsaasdaddsadsadasdsdsadasdasdsadsddา</li>
+				<li><a href="room.php">ห้องพัก&ราคdasdsaddasdsadsasdasdsaasdaddsadsadasdssdaasdasdasdsadsadasdasddsadasdasdsadsddา</li>
 				<li><a herf="guest.php">สมุดเยี่ยมsadasdsadasdsdsdsadsadsdsdsa</li>
-				<li><a href="contact.php">ติดต่ออออออออออdsadsadsadasdasddasdasdsadasdasdsdwqeasdaadsadasdasdasd</li>
+				<li><a href="contact.php">EIEIEIEIEIEIEIEIEIEIEi</li>
 				</ul><p>asdasd
 				<?php include "login_form.php";?>
 			</td>
